@@ -1,5 +1,5 @@
 # Fake Captcha
-Realistic reCAPTCHA lookalike widget for any web project
+Realistic reCAPTCHA lookalike widget for the crystal files
 ## Demo
 [https://DonFlymoor.github.io/fake-captcha/](https://donflymoor.github.io/fake-captcha-crystal/)
 
