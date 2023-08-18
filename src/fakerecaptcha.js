@@ -2,7 +2,7 @@
 // Function triggered when client clicks [Verify]
 function verifyCaptcha() {
 
-    alert("Verified!");
+    window.location.replace("https://princeofthekingdom.wixsite.com/thecrystalfiles/contact-3");
     closeVerifyWindow();
 
 }
