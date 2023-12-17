@@ -2,8 +2,7 @@
 // Function triggered when client clicks [Verify]
 function verifyCaptcha() {
 
-    alert("Verified!");
-    closeVerifyWindow();
+    document.getElementsByClassName("fkrc-im-not-a-robot fkrc-m-p fkrc-line-norma").innerHTML = "Instructions";
 
 }
 
