@@ -1,7 +1,7 @@
 # Fake Captcha
 Realistic reCAPTCHA lookalike widget for the crystal files
 ## Demo
-[https://DonFlymoor.github.io/fake-captcha/](https://donflymoor.github.io/fake-captcha-crystal/)
+[https://iamanoctocat.github.io/fake-captcha-crystal/](https://iamanoctocat.github.io/fake-captcha-crystal/)
 
 <img src="https://raw.githubusercontent.com/m-brz/fake-captcha/main/gif-demo.gif" alt="Fake captcha demo">
 
